@@ -9,7 +9,7 @@ Askdata's mission is to make data meaningful for everyone, unlocking personal an
 | :art: [Key components](https://github.com/askdataHQ/askdata/#key-components) | Overview of core concepts |
 | :eyes: [Getting Started](https://docs.askdata.com/getting-started) | Basic explanation of concepts, options and usage |
 | :mortar_board: [Tutorials](https://docs.askdata.com/tutorials) | Jupyter/Colab Notebooks & Scripts |
-| :telescope: [Roadmap](https://docs.askdata.com/roadmap) | Public roadmap of Haystack |
+| :telescope: [Roadmap](https://docs.askdata.com/roadmap) | Public roadmap of Askdata |
 | :heart: [Contributing](https://github.com/askdataHQ/askdata/#heart-contributing) | We welcome all contributions! |
 
 
