@@ -1,4 +1,4 @@
-<img src="askdata-logo-black.png" style="text-align:center;max-width:300px">
+<p align="center"><img src="askdata-logo-black.png" width="460"></p>
 
 # Askdata
 
@@ -14,9 +14,9 @@ Askdata's mission is to make data meaningful for everyone, unlocking personal an
 | :telescope: [Roadmap](https://docs.askdata.com/roadmap) | Public roadmap of Askdata |
 | :heart: [Contributing](https://github.com/askdataHQ/askdata/#heart-contributing) | We welcome all contributions! |
 
-## What is Askdata
+## What is Askdata:
 
-Askdata is designed to enable anyone, regardless of the level of technical knowledge, to harness the power of data (big and small). Ssers leverage Askdata to explore, query, visualize, and share data from any data sources. Their work in turn enables anybody in their team to use the data. 
+Askdata is a platform designed to enable anyone, regardless of the level of technical knowledge, to harness the power of data (big and small). Ssers leverage Askdata to explore, query, visualize, and share data from any data sources. Their work in turn enables anybody in their team to use the data. 
 Every day, thousands of users around the world use Askdata to share insights and make data-driven decisions.
 
 ### Askdata features:
