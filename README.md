@@ -16,8 +16,9 @@ Askdata's mission is to make data meaningful for everyone, unlocking personal an
 
 ## What is Askdata:
 
-Askdata is a platform designed to enable anyone, regardless of the level of technical knowledge, to harness the power of data (big and small). Ssers leverage Askdata to explore, query, visualize, and share data from any data sources. Their work in turn enables anybody in their team to use the data. 
-Every day, thousands of users around the world use Askdata to share insights and make data-driven decisions.
+Askdata is a platform that allows users to interact with data through natural language, thus making accessing data as simple as searching for a restaurant on Google. Askdata makes its technology available to large national and international customers and is supported by Y Combinator, the prestigious Californian accelerator.
+
+Askdata is a platform designed to enable anyone, regardless of the level of technical knowledge, to harness the power of data (big and small). Users leverage Askdata to explore, query, visualize, and share data from any data source. Our work enables anybody in business teams to use the data. Every day, thousands of users around the world use Askdata to share insights and make data-driven decisions.
 
 ### Askdata features:
 
@@ -44,7 +45,7 @@ Every day, thousands of users around the world use Askdata to share insights and
 * Human2SQL (model that translate natural language queries in structured technical queries)
 * SmartQuery (multi-datasource query layer)
 * SmartIntent (NLP engine)
-* SmartQA (AI-driven Q&A service)
+* SmartQA (Unstructured Knowledge service)
 * SmartContent (unstructured data service)
 
 ### Frameworks:
