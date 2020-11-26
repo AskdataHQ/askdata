@@ -11,7 +11,7 @@ Askdata's mission is to make data meaningful for everyone, unlocking personal an
 | :art: [Key components](https://github.com/askdataHQ/askdata/#key-components) | Overview of core concepts |
 | :eyes: [Getting Started](https://docs.askdata.com/getting-started) | Basic explanation of concepts, options and usage |
 | :mortar_board: [Tutorials](https://docs.askdata.com/tutorials) | Jupyter/Colab Notebooks & Scripts |
-| :telescope: [Roadmap](https://docs.askdata.com/roadmap) | Public roadmap of Askdata |
+| :telescope: [Roadmap](https://docs.askdata.com/docs/roadmap) | Public roadmap of Askdata |
 | :heart: [Contributing](https://github.com/askdataHQ/askdata/#heart-contributing) | We welcome all contributions! |
 
 ## What is Askdata:
@@ -41,19 +41,19 @@ Askdata is a platform designed to enable anyone, regardless of the level of tech
 * SmartFeed (client to consume the Askdata experience)
 
 ### NLP and NLG:
+* Human2SQL (Model that translates Natural Language queries in technical queries)
 * Human2Query (NLP data query service)
-* Human2SQL (model that translate natural language queries in structured technical queries)
-* SmartQuery (multi-datasource query layer)
+* SmartQuery (Multi-datasource query layer)
 * SmartIntent (NLP engine)
-* SmartQA (Unstructured Knowledge service)
-* SmartContent (unstructured data service)
+* SmartQA (Knowledge retrieval service)
+* SmartContent (Unstructured data service)
 
 ### Frameworks:
-* Data Card Framework
-* Iconset
+* Data Card Framework 
+* Iconset (https://github.com/AskdataHQ/askdata-icon-library)
 * Methodology 
 
 ### Catalogs:
-* Data Catalog
-* Dataset Integration Driver Catalog
-* Charts Components Catalog
+* Dataset Catalog 
+* Dataset Integrations Catalog (https://github.com/AskdataHQ/askdata-dataset-integrations)
+* Charts Components Catalog (https://github.com/AskdataHQ/askdata-charts-components)
