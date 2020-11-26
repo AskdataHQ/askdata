@@ -49,11 +49,11 @@ Askdata is a platform designed to enable anyone, regardless of the level of tech
 * SmartContent (Unstructured data service)
 
 ### Frameworks:
-* Data Card Framework 
+* Data Card Framework (https://github.com/AskdataHQ/askdata-datacard-components)
 * Iconset (https://github.com/AskdataHQ/askdata-icon-library)
-* Methodology 
+* Methodology (https://github.com/AskdataHQ/askdata-docs/tree/gh-pages/methodology)
 
 ### Catalogs:
-* Dataset Catalog 
+* Dataset Catalog (Will be released on the 1st week of Dec 2020)
 * Dataset Integrations Catalog (https://github.com/AskdataHQ/askdata-dataset-integrations)
 * Charts Components Catalog (https://github.com/AskdataHQ/askdata-charts-components)
