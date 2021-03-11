@@ -7,7 +7,7 @@ Askdata's mission is to make data meaningful for everyone, unlocking personal an
 |  |  |
 |-|-|
 | :ledger: [Docs](https://docs.askdata.com) | Usage, Guides, API documentation ...|
-| :computer: [Access Akdata](https://askdata.com/agent) | Start using Askdata signing-in or registering |
+| :computer: [Access Askdata](https://askdata.com/agent) | Start using Askdata signing-in or registering |
 | :art: [Key components](https://github.com/askdataHQ/askdata/#key-components) | Overview of core concepts |
 | :eyes: [Getting Started](https://docs.askdata.com/getting-started) | Basic explanation of concepts, options and usage |
 | :mortar_board: [Tutorials](https://docs.askdata.com/tutorials) | Jupyter/Colab Notebooks & Scripts |
